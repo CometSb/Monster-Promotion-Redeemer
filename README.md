@@ -7,6 +7,8 @@ This is a little fast project i made for my gf because she drinks monster and wa
 Below are the instructions.
 
 To get started you need an account on the monster website. 
+Use My Referal Code For 2 Free Codes.
+Code > GPMZKRKWTHGF
 https://musicapp.monsterenergyloyalty.com
 
 register for an account there, Once on your redeem page open devloper console and go to the network tab.
