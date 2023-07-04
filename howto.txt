@@ -1,6 +1,8 @@
 Below are the instructions.
 
 To get started you need an account on the monster website. 
+Use My Referal Code For 2 Free Codes.
+Code > GPMZKRKWTHGF
 https://musicapp.monsterenergyloyalty.com
 
 register for an account there, Once on your redeem page open devloper console and go to the network tab.
@@ -10,6 +12,5 @@ Just copy and paste its that simple.
 
 This method does work i got a few codes so far but its SLOW so if you want to fork or make your own version using this code dont be a skid. 
 dont sell this. 
-  
 
   
